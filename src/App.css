@@ -5,3 +5,26 @@ body {
 .App {
   text-align: center;
 }
+
+.nav-items {
+  margin: 5px;
+}
+
+#my-name {
+  margin-bottom: 50px;
+}
+
+.projects {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.thumbnail {
+  width: 320px;
+  height: 300px
+  /* border-radius: 50px; */
+}
+
+/* .thumbnail:hover {
+
+} */
