@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom'
 function Projects() {
     return(
         <div>
+            <h2 id="projects-header">Projects</h2>
             <div class="projects">
                 <div>
                     <p class="project-name">Tab Sensei</p>
@@ -17,7 +18,7 @@ function Projects() {
                     <p class="project-name">Asteroids</p>
                     <a href="https://tylerdance.github.io/" target="_blank"><img class="thumbnail" src="http://res.cloudinary.com/dok4pz3i3/image/upload/v1610834682/asteroids3crop_gzgtgh.jpg"></img></a>
                 </div>
-            </div>     
+            </div>    
         </div>
     )
 }
