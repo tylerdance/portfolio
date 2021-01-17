@@ -1,5 +1,6 @@
 body {
   background-color: rgb(255, 240, 227);
+  margin-bottom: 50px;
 }
 
 .App {
@@ -35,26 +36,30 @@ body {
 
 #prof-pic {
   margin-top: 10px;
-  margin-bottom: 25px;
+  margin-bottom: 20px;
   border-radius: 10%;
-  width: 200px;
+  width: 150px;
 }
 
 #linkedin {
   text-decoration: none;
-  color: rgb(110, 154, 230);
+  /* color: rgb(110, 154, 230); */
   font-family: 'Hind Siliguri', sans-serif;
 
 }
 
 #linkedin:hover {
   text-decoration: underline;
-  color: rgb(182, 254, 202);
+  /* color: rgb(240, 172, 135); */
 }
 
 #webdev {
-  margin-top: 0px;
+  margin: 5px;
   font-family: 'Hind Siliguri', sans-serif;
+}
+
+#links {
+  margin: 5px;
 }
 
 .projects {
@@ -77,11 +82,68 @@ body {
   font-family: 'Hind Siliguri', sans-serif;
 }
 
+
 #contact {
   font-family: 'Hind Siliguri', sans-serif;
 }
 
 .about {
   font-family: 'Hind Siliguri', sans-serif;
-  margin: 5px;
+  margin: 10px;
+}
+
+.tab-sensei-div {
+  border: 1px solid black;
+  margin-left: 250px;
+  margin-right: 250px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.trail-hunter-div {
+  border: 1px solid black;
+  margin-top: 20px;
+  margin-left: 250px;
+  margin-right: 250px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.asteroids-div {
+  border: 1px solid black;
+  margin-top: 20px;
+  margin-left: 250px;
+  margin-right: 250px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.description {
+  margin-left: 2px;
+}
+
+.vid {
+  margin-left: 50px;
+  margin-right: 5px;
+  margin-top: 5px;
+}
+
+#resume-header {
+  margin-top: 90px;
+  margin-bottom: 5px;
+  text-align: center;
+  font-family: 'Hind Siliguri', sans-serif;
+}
+
+#resume-div {
+  /* border: 2px solid black; */
+  text-align: left;
+  margin-top: 20px;
+  margin-left: 200px;
+  margin-right: 100px;
+  font-family: 'Hind Siliguri', sans-serif;
+}
+
+.resume {
+  margin: 0px;
 }
