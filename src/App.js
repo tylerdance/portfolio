@@ -1,13 +1,13 @@
 import './App.css';
 // import { BrowserRouter, Route } from 'react-router-dom'
-import Nav from './components/Nav'
+// import Nav from './components/Nav'
 import Projects from './components/Projects'
 import Resume from './components/Resume'
 import Home from './components/Home'
 import RecentWork from './components/RecentWork'
 
 function App() {
-
+  
   const topFunction = () => {
     document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
   }

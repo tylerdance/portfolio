@@ -32,7 +32,7 @@ body {
   /* min-height: 100vh; */
   position: relative; 
   font-family: 'Hind Siliguri', sans-serif;
-  padding: 50px;
+  padding: 60px;
   /* background-color: chartreuse; */
 
 }
@@ -63,6 +63,7 @@ body {
   margin-bottom: 20px; */
   border-radius: 25%;
   width: 130px;
+  margin-bottom: 10px;
 }
 
 #linkedin {
@@ -150,13 +151,13 @@ body {
   margin-bottom: 0px;
 }
 
-.vid {
+/* .vid {
   margin-left: 50px;
   margin-right: 5px;
   margin-top: 5px;
   width: 350px;
   height: 210px;
-}
+} */
 
 #resume-header {
   margin-top: 50px;
@@ -166,7 +167,7 @@ body {
 }
 #education-header {
   margin-top: 25px;
-  margin-bottom: 5px;
+  margin-bottom: 20px;
   text-align: center;
   font-family: 'Hind Siliguri', sans-serif;
 }
