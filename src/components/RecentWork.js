@@ -9,7 +9,7 @@ function RecentWork() {
             <div class="token-div">
                 <div>
                     <h3><a href="http://token-chat.herokuapp.com/" target="_blank">Token</a></h3>
-                    <p class="description">Websocket based chat app experiment that allows users to find connections based on their gender, preference, and location. Swipe right to send a chat invitation to that user, swipe left to shuffle the database.</p>
+                    <p class="description">Websocket based chat app experiment that allows users to find connections based on their location. Swipe right to send a chat invitation to that user, swipe left to shuffle the database.</p>
                     <p class="description">Open an <em>incognito</em> window with a second account to demo the chat functionality.</p>
                     <p class="description"><strong>React.js, MongoDB, Express, Node</strong></p>
                     <div><a href="http://token-chat.herokuapp.com/" target="_blank">Live site</a></div>

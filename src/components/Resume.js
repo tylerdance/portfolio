@@ -1,9 +1,9 @@
 function Resume() {
     return(
-        <div id="resume-div">
+        <div >
             <h3 id="resume-header">Experience</h3>
             <div id="resume-sub-div">
-                <div>
+                <div class="resume-div">
                     {/* <h3>Experience</h3> */}
                     <p class="resume"><strong>Software Engineering Immersive Program</strong>  at General Assembly (October 2020 - January 2021)</p>
                         <li class="resume">13 weeks of full time fullstack software development training in some of the most common technologies currently being used in the industry.</li>
@@ -27,13 +27,14 @@ function Resume() {
                     <p class="resume"><strong>Concert Board Productions Chair</strong> at Ithaca College Bureau of Concerts (April 2014 - December 2016)</p>
                         <li class="resume">Contract reviewal for equipment reservations</li>
                         <li class="resume">Liason between audio/visual team and concert board</li> */}
- 
+                </div>
                     <h3 id="education-header">Education</h3>
+                <div class="resume-div2">
                     <p class="resume"><strong>Software Engineering Immersive Program</strong> at General Assembly (October 2020 - January 2021)</p>
                     <p class="resume"><strong>B.S. Audio Production</strong> in TV/Radio at Ithaca College (2012 - 2016)</p>
+
                 </div>
             </div>
-            <hr />
         </div>
     )
 }
