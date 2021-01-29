@@ -81,6 +81,7 @@ body {
 
 #bio {
   margin: 5px;
+  font-size: 17px;
   font-family: 'Hind Siliguri', sans-serif;
 }
 
@@ -96,8 +97,9 @@ body {
   /* min-height: 100vh; */
   position: relative;
   /* margin-top: 0px; */
-  background-color: rgb(28, 28, 28);
-  color: #fff6f1;
+  /* background-color: rgba(31, 93, 116, 0.303); */
+  background-color: rgba(59, 88, 138, 0.276);
+  color: #000000;
   padding-bottom: 90px;
 }
 
@@ -114,9 +116,18 @@ body {
   margin: 10px;
 }
 
+.description {
+  text-align: center;
+  margin-left: 10px;
+  margin-bottom: 0px;
+
+}
+
 .tech-stack {
   text-align: center;
-  margin: auto;
+  margin-top: 4px;
+  margin-bottom: 4px;
+
 }
 
 .links-div {
@@ -124,7 +135,7 @@ body {
 }
 
 .token-div {
-  border: 1px solid white;
+  border: 1px solid rgb(0, 0, 0);
   border-radius: 10px;
   margin-top: 60px;
   margin-left: 15px;
@@ -133,7 +144,7 @@ body {
   justify-content: space-evenly; */
 }
 .tab-sensei-div {
-  border: 1px solid white;
+  border: 1px solid rgb(0, 0, 0);
   border-radius: 10px;
   margin-top: 40px;
   margin-left: 15px;
@@ -154,11 +165,7 @@ body {
   margin-top: 20px;
 } */
 
-.description {
-  text-align: left;
-  margin-left: 10px;
-  margin-bottom: 0px;
-}
+
 
 
 
@@ -179,7 +186,7 @@ body {
 }
 #education-header {
   margin-top: 25px;
-  margin-bottom: 20px;
+  margin-bottom: 5px;
   text-align: center;
   font-family: 'Hind Siliguri', sans-serif;
 }
@@ -223,18 +230,17 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   position: relative;
-  background-color: rgb(28, 28, 28);
+  /* background-color: rgba(59, 104, 138, 0.317); */
+  background-color: rgba(59, 88, 138, 0.276);
   color: white;
 }
 
 #projects-header {
   /* margin-top: 70px; */
-  color: #fff6f1;
+  color: #000000;
   margin-bottom: 0px;
   font-family: 'Hind Siliguri', sans-serif; 
 }
-
-
 
 #projects-margin {
   display: flex;
@@ -257,6 +263,16 @@ body {
 
 .project-name {
   font-family: 'Hind Siliguri', sans-serif;
+}
+
+#about-header {
+  padding-top: 40px;
+}
+
+.about {
+  text-align: left;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 #back-to-top {

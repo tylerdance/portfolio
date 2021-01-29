@@ -11,7 +11,7 @@ function RecentWork() {
                     <h3><a href="http://token-chat.herokuapp.com/" target="_blank" rel="noreferrer">Token</a></h3>
                     <p class="description">Websocket based chat app experiment. Users can find connections based on their location. Swipe right to send a chat invitation to that user, swipe left to shuffle the database.</p>
                     <p class="description">Open an <em>incognito</em> window with a second account to demo the chat functionality.</p>
-                    <br />
+                    {/* <br /> */}
                     <p class="tech-stack"><strong>React.js, MongoDB, Express, Node</strong></p>
                     <div class="links-div">
                         <div><a href="http://token-chat.herokuapp.com/" target="_blank" rel="noreferrer">Live site</a></div>
@@ -29,7 +29,7 @@ function RecentWork() {
                     <iframe class="vid" src="https://www.youtube.com/embed/Fa00WE9fpC4?list=PLfTlLh3QA5Fk8NAIQZlEmxG_mL9GsJbYK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div> */}
                     <p class="description">Guitar tab search engine and social platform. Users can search for tabs, comment, save tabs to their profile, and play along to beats from the beat bank at any tempo.</p>
-                    <br />
+                    {/* <br /> */}
                     <p class="tech-stack"><strong>React.js, MongoDB, Express, Node</strong></p>
                     <div class="links-div">
                         <div><a href="http://tabsensei.herokuapp.com/" target="_blank" rel="noreferrer">Live site</a></div>

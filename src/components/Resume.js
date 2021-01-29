@@ -1,15 +1,14 @@
 function Resume() {
     return(
         <div>
-            <h3 id="resume-header">Experience</h3>
+            <h2 id="resume-header">Experience</h2>
             <div id="resume-sub-div">
                 <div class="resume-div">
                     {/* <h3>Experience</h3> */}
                     {/* <hr /> */}
                     <p class="resume"><strong>Software Engineering Immersive Program</strong>  at General Assembly (October 2020 - January 2021)</p>
                         <li class="resume">13 weeks of fullstack software development training in some of the most common technologies currently being used in the industry.</li>
-                        <li class="resume">Javascript, React, Express, Node.js, SQL, PostreSQL, MongoDB</li>
-                        <li class="resume">Python, Django</li>
+                        <li class="resume">Javascript, React, Python, Django, Express, Node.js, SQL, PostreSQL, MongoDB</li>
                     {/* <br /> */}
                     <hr />
                     <p class="resume"><strong>Audio/Visual Technician</strong> at PSAV (June 2019 - March 2020)</p>
@@ -23,6 +22,7 @@ function Resume() {
                         <li class="resume">Recital preparation</li>
                     <hr />
                     <p class="resume"><strong>Audio Engineer</strong> freelance (2012 - present)</p>
+                        <li class="resume">9 years of music production</li>
                         <li class="resume">Multi track mixing in Ableton Live and Pro Tools</li>
                         <li class="resume">Mastering with Izotope Ozone</li>
                     {/* <hr /> */}
@@ -31,7 +31,7 @@ function Resume() {
                         <li class="resume">Contract reviewal for equipment reservations</li>
                         <li class="resume">Liason between audio/visual team and concert board</li> */}
                 </div>
-                    <h3 id="education-header">Education</h3>
+                    <h2 id="education-header">Education</h2>
                 <div class="resume-div2">
                     <p class="resume"><strong>Software Engineering Immersive Program</strong> at General Assembly 2021</p>
                     {/* <br /> */}
