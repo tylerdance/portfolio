@@ -33,9 +33,9 @@ function Resume() {
                 </div>
                     <h3 id="education-header">Education</h3>
                 <div class="resume-div2">
-                    <p class="resume"><strong>Software Engineering Immersive Program</strong> at General Assembly (October 2020 - January 2021)</p>
-                    <hr />
-                    <p class="resume"><strong>B.S. Audio Production</strong> in TV/Radio at Ithaca College (2012 - 2016)</p>
+                    <p class="resume"><strong>Software Engineering Immersive Program</strong> at General Assembly 2021</p>
+                    {/* <br /> */}
+                    <p class="resume"><strong>B.S. Audio Production</strong> in TV/Radio at Ithaca College 2016</p>
 
                 </div>
             </div>
