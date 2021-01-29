@@ -84,7 +84,7 @@ body {
   font-family: 'Hind Siliguri', sans-serif;
 }
 
-#links {
+#my-links {
   margin: 5px;
 }
 
@@ -112,6 +112,15 @@ body {
 .about {
   font-family: 'Hind Siliguri', sans-serif;
   margin: 10px;
+}
+
+.tech-stack {
+  text-align: center;
+  margin: auto;
+}
+
+.links-div {
+  padding-bottom: 10px;
 }
 
 .token-div {
@@ -150,6 +159,9 @@ body {
   margin-left: 10px;
   margin-bottom: 0px;
 }
+
+
+
 
 /* .vid {
   margin-left: 50px;
@@ -240,7 +252,7 @@ body {
 }
 
 .thumbnail:hover {
-  opacity: 50%;
+  opacity: 75%;
 }
 
 .project-name {
