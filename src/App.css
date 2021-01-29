@@ -251,9 +251,9 @@ body {
   padding: 5px;
 }
 
-.thumbnail:hover {
+/* .thumbnail:hover {
   opacity: 75%;
-}
+} */
 
 .project-name {
   font-family: 'Hind Siliguri', sans-serif;
