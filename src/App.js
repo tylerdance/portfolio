@@ -6,6 +6,7 @@ import Resume from './components/Resume'
 // import About from './components/About'
 import Home from './components/Home'
 import RecentWork from './components/RecentWork'
+import ShowResume from './components/ShowResume';
 
 function App() {
   
@@ -21,6 +22,7 @@ function App() {
         <Home />
         <RecentWork />
         <Resume />
+        <ShowResume />
         <Projects />
         {/* <About /> */}
         {/* <Route path="/home" component={Home} /> */}

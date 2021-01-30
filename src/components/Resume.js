@@ -40,9 +40,14 @@ function Resume() {
                 </div>
             </div>
             
-            <button id="resume-btn" class="btn btn-dark" >
-                <a class="resume-download" href="/docs/tylerdance_resume_1.30.2021" download>Resume download</a>
-            </button>
+            {/* <button id="resume-btn" class="btn btn-dark" >
+                <a href="assets/tylerdance-resume.pdf" download>Download Resume</a>
+            </button> */}
+
+            <div class="resume-btn">
+                <a id="resume-btn" href="https://docs.google.com/document/d/e/2PACX-1vRo9c981fgn-NRKae_eBdAVCxAVLLD0_cAIuidOyNFpuEl5ggWTnc0LPj5vCoPTZfyGhbaDmvb2VzHg/pub" target="_blank"><button class="btn btn-dark">Full Resume</button></a>
+                {/* <a id="resume-btn" href="C:/assets/tylerdance-resume.pdf" download><button class="btn btn-dark">Full Resume</button></a> */}
+            </div>
         </div>
     )
 }
