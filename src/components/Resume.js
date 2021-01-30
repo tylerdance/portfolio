@@ -45,8 +45,9 @@ function Resume() {
             </button> */}
 
             <div class="resume-btn">
-                <a id="resume-btn" href="https://docs.google.com/document/d/e/2PACX-1vRo9c981fgn-NRKae_eBdAVCxAVLLD0_cAIuidOyNFpuEl5ggWTnc0LPj5vCoPTZfyGhbaDmvb2VzHg/pub" target="_blank"><button class="btn btn-dark">Full Resume</button></a>
+                {/* <a id="resume-btn" href="https://docs.google.com/document/d/e/2PACX-1vRo9c981fgn-NRKae_eBdAVCxAVLLD0_cAIuidOyNFpuEl5ggWTnc0LPj5vCoPTZfyGhbaDmvb2VzHg/pub" target="_blank"><button class="btn btn-dark">Full Resume</button></a> */}
                 {/* <a id="resume-btn" href="C:/assets/tylerdance-resume.pdf" download><button class="btn btn-dark">Full Resume</button></a> */}
+                <a href="https://docdro.id/xysdldR" target="_blank"><button class="btn btn-dark">Download Resume</button></a>
             </div>
         </div>
     )

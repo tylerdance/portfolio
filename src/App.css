@@ -212,15 +212,21 @@ body {
 } */
 
 #resume-header {
+  /* font-size: 32px; */
+  text-decoration: underline;
   margin-top: 50px;
   margin-bottom: 5px;
-  text-align: center;
+  text-align: left;
+  margin-left: 20px;
   font-family: 'Hind Siliguri', sans-serif;
 }
 #education-header {
+  /* font-size: 32px; */
+  text-decoration: underline;
   margin-top: 25px;
   margin-bottom: 5px;
-  text-align: center;
+  text-align: left;
+  margin-left: 20px;
   font-family: 'Hind Siliguri', sans-serif;
 }
 
@@ -249,7 +255,7 @@ body {
   /* height: 100vh; */
   /* background-color: red; */
   text-align: left;
-  margin-top: 20px;
+  /* margin-top: 20px; */
   padding-bottom: 40px;
   font-family: 'Hind Siliguri', sans-serif;
 }
