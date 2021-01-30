@@ -39,6 +39,10 @@ function Resume() {
 
                 </div>
             </div>
+            
+            <button id="resume-btn" class="btn btn-dark" >
+                <a class="resume-download" href="/docs/tylerdance_resume_1.30.2021" download>Resume download</a>
+            </button>
         </div>
     )
 }

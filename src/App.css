@@ -239,7 +239,7 @@ body {
   text-align: left;
   margin-left: 20px;
   margin-right: 10px;
-  margin-bottom: 30px;
+
   /* background-color: rgb(70, 187, 117); */
 }
 
@@ -257,6 +257,17 @@ body {
 .resume {
   margin: 0px;
   font-size: 17px;
+}
+
+.resume-download {
+  text-align: center;
+  text-decoration: none;
+  color: white;
+}
+
+#resume-btn {
+  text-decoration: none;
+  margin-bottom: 10px;
 }
 
 #projects-div {
@@ -304,9 +315,9 @@ body {
   padding: 5px;
 }
 
-.thumbnail:hover {
+/* .thumbnail:hover {
   opacity: 60%;
-}
+} */
 
 .project-name {
   font-family: 'Hind Siliguri', sans-serif;
