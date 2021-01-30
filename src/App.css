@@ -164,12 +164,12 @@ body {
 }
 
 #token-ss {
-  height: 280px;
-  width: 460px;;
+  height: 260px;
+  width: 420px;;
 }
 #tabsensei-ss {
-  height: 280px;
-  width: 460px;;
+  height: 260px;
+  width: 420px;;
 }
 
 .tab-sensei-div {
@@ -303,10 +303,10 @@ body {
   border-radius: 5%;
   padding: 5px;
 }
-/* 
+
 .thumbnail:hover {
-  opacity: 99%;
-} */
+  opacity: 60%;
+}
 
 .project-name {
   font-family: 'Hind Siliguri', sans-serif;
