@@ -7,7 +7,7 @@ function Resume() {
                     {/* <h3>Experience</h3> */}
                     {/* <hr /> */}
                     <p class="resume"><strong>Software Engineering Immersive Program</strong>  at General Assembly (October 2020 - January 2021)</p>
-                        <li class="resume">13 weeks of fullstack software development training in some of the most common technologies currently being used in the industry.</li>
+                        <li class="resume">13 weeks of fullstack software development training in some of the most common technologies currently being used in the industry</li>
                         <li class="resume">Javascript, React, Python, Django, Express, Node.js, SQL, PostreSQL, MongoDB</li>
                     {/* <br /> */}
                     <hr />

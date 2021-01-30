@@ -1,5 +1,6 @@
 body {
   background: #fff6f1;
+  /* background-color: rgba(211, 200, 42, 0.166); */
   /* background: linear-gradient(90deg,  0%, rgb(14, 14, 140) 35%, rgba(0,212,255,1) 100%);
   background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgb(14, 14, 140) 35%, rgb(5, 0, 96) 100%); */
   margin-bottom: 10px;
@@ -97,14 +98,17 @@ body {
   /* min-height: 100vh; */
   position: relative;
   /* margin-top: 0px; */
-  /* background-color: rgba(31, 93, 116, 0.303); */
-  background-color: rgba(59, 88, 138, 0.276);
+  /* background-color: rgba(59, 88, 138, 0.276); */
+  /* background-color: rgba(32, 105, 131, 0.303); */
+  /* background-color: rgba(181, 49, 95, 0.063); */
+  background-color: rgba(35, 110, 175, 0.139);
   color: #000000;
   padding-bottom: 90px;
 }
 
 #recent-work-header {
   padding-top: 30px;
+  font-family: 'Hind Siliguri', sans-serif;
 }
 
 #contact {
@@ -119,15 +123,18 @@ body {
 .description {
   text-align: center;
   margin-left: 10px;
+  margin-right: 10px;
   margin-bottom: 0px;
-
+  font-size: 17px;
+  font-family: 'Hind Siliguri', sans-serif;
 }
 
 .tech-stack {
   text-align: center;
   margin-top: 4px;
   margin-bottom: 4px;
-
+  font-size: 17px;
+  font-family: 'Hind Siliguri', sans-serif;
 }
 
 .links-div {
@@ -135,22 +142,48 @@ body {
 }
 
 .token-div {
-  border: 1px solid rgb(0, 0, 0);
-  border-radius: 10px;
+  /* border: 1px solid rgb(0, 0, 0); */
+  /* border-radius: 10px; */
+
   margin-top: 60px;
   margin-left: 15px;
   margin-right: 15px;
-  /* display: flex
-  justify-content: space-evenly; */
+  font-size: 17px;
+
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  font-family: 'Hind Siliguri', sans-serif;
 }
+
+#token-sub-div {
+  width: 500px;
+}
+#tabsensei-sub-div {
+  width: 500px;
+}
+
+#token-ss {
+  height: 280px;
+  width: 460px;;
+}
+#tabsensei-ss {
+  height: 280px;
+  width: 460px;;
+}
+
 .tab-sensei-div {
-  border: 1px solid rgb(0, 0, 0);
-  border-radius: 10px;
+  /* border: 1px solid rgb(0, 0, 0); */
+  /* border-radius: 10px; */
+  border-top: 1 px rgb(0, 0, 0);
   margin-top: 40px;
   margin-left: 15px;
   margin-right: 15px;
-  /* display: flex;
-  justify-content: space-evenly; */
+  font-size: 17px;
+  font-family: 'Hind Siliguri', sans-serif;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
 }
 
 /* .trail-hunter-div {
@@ -197,6 +230,7 @@ body {
   text-align: left;
   margin-left: 20px;
   margin-right: 10px;
+  font-family: 'Hind Siliguri', sans-serif;
   /* background-color: rgb(70, 187, 117); */
 }
 .resume-div2 {
@@ -222,6 +256,7 @@ body {
 
 .resume {
   margin: 0px;
+  font-size: 17px;
 }
 
 #projects-div {
@@ -231,7 +266,10 @@ body {
   padding-bottom: 30px;
   position: relative;
   /* background-color: rgba(59, 104, 138, 0.317); */
-  background-color: rgba(59, 88, 138, 0.276);
+  /* background-color: rgba(59, 88, 138, 0.276); */
+  /* background-color: rgba(32, 105, 131, 0.303); */
+  /* background-color: rgba(35, 126, 175, 0.159); */
+  background-color: rgba(35, 110, 175, 0.139);
   color: white;
 }
 
@@ -246,7 +284,16 @@ body {
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
-  margin: 5%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  margin-left: 5%;
+  margin-right: 5%;
+  /* margin: 4%; */
+}
+
+.projects-info {
+  color: black;
+  margin: 0px;
 }
 
 
@@ -267,14 +314,20 @@ body {
 
 #about-header {
   padding-top: 40px;
+  padding-bottom: 10px;
+  font-family: 'Hind Siliguri', sans-serif;
 }
 
 .about {
   text-align: left;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 20px;
+  font-size: 17px;
+  font-family: 'Hind Siliguri', sans-serif;
+  /* padding-bottom: 40px; */
 }
 
 #back-to-top {
-  margin: 20px
+  margin-top: 40px;
 }

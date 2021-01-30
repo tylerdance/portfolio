@@ -7,7 +7,7 @@ function RecentWork() {
 
             </div>
             <div class="token-div">
-                <div>
+                <div id="token-sub-div">
                     <h3><a href="http://token-chat.herokuapp.com/" target="_blank" rel="noreferrer">Token</a></h3>
                     <p class="description">Websocket based chat app experiment. Users can find connections based on their location. Swipe right to send a chat invitation to that user, swipe left to shuffle the database.</p>
                     <p class="description">Open an <em>incognito</em> window with a second account to demo the chat functionality.</p>
@@ -20,14 +20,17 @@ function RecentWork() {
 
                     </div>
                 </div>
-            </div>
-
-            <div class="tab-sensei-div">
                 <div>
+                    <img src="http://res.cloudinary.com/dok4pz3i3/image/upload/v1612022377/Screen_Shot_2021-01-30_at_10.58.09_AM_xni1d0.png" id="token-ss" />
+                </div>
+            </div>
+            <hr />
+            <div class="tab-sensei-div">
+                <div id="tabsensei-sub-div">
                     <h3><a href="http://tabsensei.herokuapp.com/" target="_blank" rel="noreferrer">Tab Sensei</a></h3>
-                {/* <div>
-                    <iframe class="vid" src="https://www.youtube.com/embed/Fa00WE9fpC4?list=PLfTlLh3QA5Fk8NAIQZlEmxG_mL9GsJbYK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div> */}
+                    {/* <div>
+                        <iframe class="vid" src="https://www.youtube.com/embed/Fa00WE9fpC4?list=PLfTlLh3QA5Fk8NAIQZlEmxG_mL9GsJbYK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div> */}
                     <p class="description">Guitar tab search engine and social platform. Users can search for tabs, comment, save tabs to their profile, and play along to beats from the beat bank at any tempo.</p>
                     {/* <br /> */}
                     <p class="tech-stack"><strong>React.js, MongoDB, Express, Node</strong></p>
@@ -37,6 +40,9 @@ function RecentWork() {
                         <div><a href="https://github.com/tylerdance/tab-sensei-backend" target="_blank" rel="noreferrer">Backend Github repo</a></div>
 
                     </div>
+                </div>
+                <div>
+                    <img src="http://res.cloudinary.com/dok4pz3i3/image/upload/v1612022956/Screen_Shot_2021-01-30_at_11.08.56_AM_sjxo4y.png" id="tabsensei-ss" />
                 </div>
             </div>
 
