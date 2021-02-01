@@ -8,7 +8,7 @@ function Resume() {
                     {/* <hr /> */}
                     <p class="resume"><strong>Software Engineering Immersive Program</strong>  at General Assembly (October 2020 - January 2021)</p>
                         <li class="resume">13 weeks of fullstack software development training in some of the most common technologies currently being used in the industry</li>
-                        <li class="resume">Javascript, React, Python, Django, Express, Node.js, SQL, PostreSQL, MongoDB</li>
+                        <li class="resume">Javascript, React, Python, Django, MongoDB, Express, Node.js, SQL, PostreSQL, Heroku, Github</li>
                     {/* <br /> */}
                     <hr />
                     <p class="resume"><strong>Audio/Visual Technician</strong> at PSAV (June 2019 - March 2020)</p>
@@ -22,9 +22,9 @@ function Resume() {
                         <li class="resume">Recital preparation</li>
                     <hr />
                     <p class="resume"><strong>Audio Engineer</strong> freelance (2012 - present)</p>
-                        <li class="resume">9 years of music production</li>
-                        <li class="resume">Multi track mixing in Ableton Live and Pro Tools</li>
-                        <li class="resume">Mastering with Izotope Ozone</li>
+                        <li class="resume">9 years of multi-track mixing and mastering</li>
+                      
+                        <li class="resume">Ableton Live, Pro Tools, Izotope Ozone</li>
                     {/* <hr /> */}
                     {/* <br />
                     <p class="resume"><strong>Concert Board Productions Chair</strong> at Ithaca College Bureau of Concerts (April 2014 - December 2016)</p>
@@ -41,7 +41,7 @@ function Resume() {
             </div>
             
             {/* <button id="resume-btn" class="btn btn-dark" >
-                <a href="assets/tylerdance-resume.pdf" download>Download Resume</a>
+                <a href="assets/tylerdance-resume.pdf" download>Download Resume</a>pm        
             </button> */}
 
             <div class="resume-btn">
