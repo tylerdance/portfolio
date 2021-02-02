@@ -35,10 +35,20 @@ body {
   font-family: 'Hind Siliguri', sans-serif;
   padding: 20px;
   /* background-color: chartreuse; */
+  
+}
 
+#home-div::before {
+  background-image: url('http://res.cloudinary.com/dok4pz3i3/image/upload/v1612196462/flatclouds_half_img_a6z1ke.jpg');
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  opacity: 50%;
 }
 
 #home-content {
+  /* opacity: 100%; */
   /* margin-left: 60px;
   margin-right: auto;
   position: absolute;
@@ -63,7 +73,7 @@ body {
   /* margin-top: 10px;
   margin-bottom: 20px; */
   border-radius: 25%;
-  width: 130px;
+  width: 120px;
   margin-bottom: 10px;
 }
 
@@ -84,6 +94,7 @@ body {
   margin: 5px;
   font-size: 17px;
   font-family: 'Hind Siliguri', sans-serif;
+  /* color: white; */
 }
 
 #my-links {
@@ -101,7 +112,7 @@ body {
   /* background-color: rgba(59, 88, 138, 0.276); */
   /* background-color: rgba(32, 105, 131, 0.303); */
   /* background-color: rgba(181, 49, 95, 0.063); */
-  background-color: rgba(35, 110, 175, 0.139);
+  background-color: rgba(35, 126, 175, 0.139);
   color: #000000;
   padding-bottom: 90px;
 }
@@ -288,7 +299,8 @@ body {
   /* background-color: rgba(59, 88, 138, 0.276); */
   /* background-color: rgba(32, 105, 131, 0.303); */
   /* background-color: rgba(35, 126, 175, 0.159); */
-  background-color: rgba(35, 110, 175, 0.139);
+  /* background-color: rgba(35, 110, 175, 0.139); */
+  background-color: rgba(35, 126, 175, 0.139);
   color: white;
 }
 
@@ -304,7 +316,7 @@ body {
   justify-content: space-evenly;
   flex-wrap: wrap;
   margin-top: 2%;
-  margin-bottom: 2%;
+  /* margin-bottom: 2%; */
   margin-left: 5%;
   margin-right: 5%;
   /* margin: 4%; */

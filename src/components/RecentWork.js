@@ -21,7 +21,7 @@ function RecentWork() {
                     </div>
                 </div>
                 <div>
-                    <img src="http://res.cloudinary.com/dok4pz3i3/image/upload/v1612022377/Screen_Shot_2021-01-30_at_10.58.09_AM_xni1d0.png" id="token-ss" />
+                    <img id="token-ss" src="http://res.cloudinary.com/dok4pz3i3/image/upload/v1612022377/Screen_Shot_2021-01-30_at_10.58.09_AM_xni1d0.png" alt="" />
                 </div>
             </div>
             <hr />
@@ -42,7 +42,7 @@ function RecentWork() {
                     </div>
                 </div>
                 <div>
-                    <img src="http://res.cloudinary.com/dok4pz3i3/image/upload/v1612022956/Screen_Shot_2021-01-30_at_11.08.56_AM_sjxo4y.png" id="tabsensei-ss" />
+                    <img id="tabsensei-ss" src="http://res.cloudinary.com/dok4pz3i3/image/upload/v1612022956/Screen_Shot_2021-01-30_at_11.08.56_AM_sjxo4y.png" alt="" />
                 </div>
             </div>
 

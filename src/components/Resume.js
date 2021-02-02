@@ -24,7 +24,7 @@ function Resume() {
                     <p class="resume"><strong>Music Teacher</strong> at Valotta Studios (May 2018 - May 2019)</p>
                         <li class="resume">Private lessons with 15-20 weekly students of all ages</li>
                         <li class="resume">Taught advanced and fundamental guitar techniques</li>
-                        <li class="resume">Recital preparation</li>
+                        {/* <li class="resume">Recital preparation</li> */}
                     {/* <hr /> */}
                     {/* <br />
                     <p class="resume"><strong>Concert Board Productions Chair</strong> at Ithaca College Bureau of Concerts (April 2014 - December 2016)</p>
@@ -47,7 +47,7 @@ function Resume() {
             <div class="resume-btn">
                 {/* <a id="resume-btn" href="https://docs.google.com/document/d/e/2PACX-1vRo9c981fgn-NRKae_eBdAVCxAVLLD0_cAIuidOyNFpuEl5ggWTnc0LPj5vCoPTZfyGhbaDmvb2VzHg/pub" target="_blank"><button class="btn btn-dark">Full Resume</button></a> */}
                 {/* <a id="resume-btn" href="C:/assets/tylerdance-resume.pdf" download><button class="btn btn-dark">Full Resume</button></a> */}
-                <a href="https://docdro.id/2YeLzsp" target="_blank"><button class="btn btn-dark">Download Resume</button></a>
+                <a href="https://docdro.id/VYfdb7q" target="_blank" rel="noreferrer"><button class="btn btn-dark">Download Resume</button></a>
             </div>
         </div>
     )

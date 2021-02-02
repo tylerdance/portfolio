@@ -10,15 +10,14 @@ import ShowResume from './components/ShowResume';
 
 function App() {
   
-  const topFunction = () => {
-    document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
-  }
+  // const topFunction = () => {
+  //   document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+  // }
 
   return (
   
       <div className="App">
         {/* <Nav /> */}
-        <br />
         <Home />
         <RecentWork />
         <Resume />
@@ -29,7 +28,7 @@ function App() {
         {/* <Route path="/about" component={About} /> */}
         {/* <Route exact path="/projects" component={Projects} /> */}
 
-        <button id="back-to-top" class="btn btn-dark" onClick={topFunction}>Back to top</button>
+        {/* <button id="back-to-top" class="btn btn-dark" onClick={topFunction}>Back to top</button> */}
 
       </div>
    
