@@ -1,6 +1,6 @@
 function Resume() {
     return(
-        <div>
+        <div id="resume-parent-div">
             <h2 id="resume-header">Experience</h2>
             <div id="resume-sub-div">
                 <div class="resume-div">

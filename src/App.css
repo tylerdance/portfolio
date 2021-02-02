@@ -1,5 +1,5 @@
 body {
-  background: #fff6f1;
+
   /* background-color: rgba(211, 200, 42, 0.166); */
   /* background: linear-gradient(90deg,  0%, rgb(14, 14, 140) 35%, rgba(0,212,255,1) 100%);
   background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgb(14, 14, 140) 35%, rgb(5, 0, 96) 100%); */
@@ -32,6 +32,7 @@ body {
 #home-div {
   /* min-height: 100vh; */
   position: relative; 
+  background: #fff6f1;
   font-family: 'Hind Siliguri', sans-serif;
   padding: 20px;
   /* background-color: chartreuse; */
@@ -112,7 +113,8 @@ body {
   /* background-color: rgba(59, 88, 138, 0.276); */
   /* background-color: rgba(32, 105, 131, 0.303); */
   /* background-color: rgba(181, 49, 95, 0.063); */
-  background-color: rgba(35, 126, 175, 0.139);
+  /* background-color: rgba(35, 126, 175, 0.139); */
+  background-color: rgba(126, 165, 206, 0.166);
   color: #000000;
   padding-bottom: 90px;
 }
@@ -197,35 +199,11 @@ body {
   flex-wrap: wrap;
 }
 
-/* .trail-hunter-div {
-  border: 1px solid black;
-  border-radius: 10px;
-  margin-top: 20px;
-}
-
-.asteroids-div {
-  border: 1px solid black;
-  border-radius: 10px;
-  margin-top: 20px;
-} */
-
-
-
-
-
-
-/* .vid {
-  margin-left: 50px;
-  margin-right: 5px;
-  margin-top: 5px;
-  width: 350px;
-  height: 210px;
-} */
 
 #resume-header {
   /* font-size: 32px; */
   text-decoration: underline;
-  margin-top: 50px;
+  padding-top: 50px;
   margin-bottom: 5px;
   text-align: left;
   margin-left: 20px;
@@ -243,6 +221,7 @@ body {
 
 .resume-div {
   /* min-height: 100vh; */
+
   position: relative;
   text-align: left;
   margin-left: 20px;
@@ -252,12 +231,18 @@ body {
 }
 .resume-div2 {
   /* min-height: 100vh; */
+
   position: relative;
   text-align: left;
   margin-left: 20px;
   margin-right: 10px;
 
   /* background-color: rgb(70, 187, 117); */
+}
+
+#resume-parent-div {
+
+  background: #fff6f1;
 }
 
 #resume-sub-div {
@@ -272,6 +257,7 @@ body {
 }
 
 .resume {
+
   margin: 0px;
   font-size: 17px;
 }
@@ -286,7 +272,7 @@ body {
   /* border: 2px solid black; */
   color: black;
   /* text-decoration: none; */
-  margin-bottom: 10px;
+  padding-bottom: 10px;
 }
 
 #projects-div {
@@ -295,12 +281,12 @@ body {
   padding-top: 30px;
   padding-bottom: 20px;
   position: relative;
-  /* background-color: rgba(59, 104, 138, 0.317); */
-  /* background-color: rgba(59, 88, 138, 0.276); */
   /* background-color: rgba(32, 105, 131, 0.303); */
   /* background-color: rgba(35, 126, 175, 0.159); */
   /* background-color: rgba(35, 110, 175, 0.139); */
-  background-color: rgba(35, 126, 175, 0.139);
+  /* background-color: rgba(52, 135, 179, 0.139); */
+  /* background-color: rgba(164, 201, 208, 0.193); */
+  background-color: rgba(126, 165, 206, 0.166);
   color: white;
 }
 
@@ -349,11 +335,15 @@ body {
   font-family: 'Hind Siliguri', sans-serif;
 }
 
+#about-parent-div {
+  background: #fff6f1;
+}
+
 .about {
   text-align: left;
   margin-left: 40px;
   margin-right: 40px;
-  margin-bottom: 20px;
+  padding-bottom: 30px;
   font-size: 17px;
   font-family: 'Hind Siliguri', sans-serif;
   /* padding-bottom: 40px; */
