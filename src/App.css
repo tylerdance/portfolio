@@ -115,7 +115,7 @@ body {
   /* background-color: rgba(32, 105, 131, 0.303); */
   /* background-color: rgba(181, 49, 95, 0.063); */
   /* background-color: rgba(35, 126, 175, 0.139); */
-  background-color: rgba(126, 165, 206, 0.166);
+  background-color: rgba(126, 145, 206, 0.139);
   color: #000000;
   padding-bottom: 30px;
 }
@@ -287,7 +287,7 @@ body {
   /* background-color: rgba(35, 110, 175, 0.139); */
   /* background-color: rgba(52, 135, 179, 0.139); */
   /* background-color: rgba(164, 201, 208, 0.193); */
-  background-color: rgba(126, 165, 206, 0.166);
+  background-color: rgba(126, 145, 206, 0.139);
   color: white;
 }
 
@@ -348,12 +348,13 @@ body {
   text-align: left;
   margin-left: 40px;
   margin-right: 40px;
+  margin-bottom: 0px;
   padding-bottom: 30px;
   font-size: 17px;
   font-family: 'Hind Siliguri', sans-serif;
   /* padding-bottom: 40px; */
 }
 
-#back-to-top {
+/* #back-to-top {
   margin-top: 40px;
-}
+} */
