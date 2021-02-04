@@ -24,7 +24,6 @@ function RecentWork() {
                     <img id="token-ss" src="http://res.cloudinary.com/dok4pz3i3/image/upload/v1612022377/Screen_Shot_2021-01-30_at_10.58.09_AM_xni1d0.png" alt="" />
                 </div>
             </div>
-            <hr />
             <div class="tab-sensei-div">
                 <div id="tabsensei-sub-div">
                     <h3><a href="http://tabsensei.herokuapp.com/" target="_blank" rel="noreferrer">Tab Sensei</a></h3>
