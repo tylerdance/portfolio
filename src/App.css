@@ -183,11 +183,13 @@ body {
 
 #token-ss {
   height: 260px;
-  width: 420px;;
+  width: 420px;
+  max-width: 100%;
 }
 #tabsensei-ss {
   height: 260px;
-  width: 420px;;
+  width: 420px;
+  max-width: 100%;
 }
 
 .tab-sensei-div {
@@ -345,7 +347,7 @@ body {
 }
 
 #about-parent-div {
-  background: #fff9f6;
+  background: #fff9f5;
 }
 
 .about {
@@ -359,6 +361,7 @@ body {
   /* padding-bottom: 40px; */
 }
 
-/* #back-to-top {
-  margin-top: 40px;
-} */
+#back-to-top {
+  padding: 10px;
+  background: #fff9f5;
+}
