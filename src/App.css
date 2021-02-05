@@ -157,6 +157,10 @@ body {
   padding-bottom: 10px;
 }
 
+.recents-header {
+  color: white;
+}
+
 .token-div {
   /* border: 1px solid rgb(0, 0, 0); */
   /* border-radius: 10px; */
@@ -320,8 +324,9 @@ body {
 }
 
 .projects-info {
-  color: black;
+  color: rgb(135, 135, 135);
   margin: 0px;
+  padding: 0px;
 }
 
 
