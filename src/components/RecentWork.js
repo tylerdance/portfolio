@@ -8,8 +8,8 @@ function RecentWork() {
             </div>
             <div class="token-div">
                 <div id="token-sub-div">
-                    <h3 ><a href="http://token-chat.herokuapp.com/" target="_blank" rel="noreferrer">Token</a></h3>
-                    <p class="description">Websocket based messaging app experiment where users can find connections based on their location. Swipe right to send a chat invitation to that user, swipe left to shuffle the database.</p>
+                    <h3 ><a class="recents-header" href="http://token-chat.herokuapp.com/" target="_blank" rel="noreferrer">Token</a></h3>
+                    <p class="description">Websocket based messaging app experiment where users can find connections based on their location. Swipe right to send a chat invitation, swipe left to shuffle the database.</p>
                     <p class="description">Open an <em>incognito</em> window with a second account to demo the chat functionality.</p>
                     {/* <br /> */}
                     <p class="tech-stack"><strong>React.js, MongoDB, Express, Node</strong></p>
@@ -26,7 +26,7 @@ function RecentWork() {
             </div>
             <div class="tab-sensei-div">
                 <div id="tabsensei-sub-div">
-                    <h3><a href="http://tabsensei.herokuapp.com/" target="_blank" rel="noreferrer">Tab Sensei</a></h3>
+                    <h3><a class="recents-header" href="http://tabsensei.herokuapp.com/" target="_blank" rel="noreferrer">Tab Sensei</a></h3>
                     {/* <div>
                         <iframe class="vid" src="https://www.youtube.com/embed/Fa00WE9fpC4?list=PLfTlLh3QA5Fk8NAIQZlEmxG_mL9GsJbYK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div> */}
