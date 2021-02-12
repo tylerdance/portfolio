@@ -5,7 +5,7 @@ function Projects() {
             <div class="projects">
                 <div id="projects-margin">
                     <div>
-                        <a href="http://token-chat.herokuapp.com/" target="_blank" rel="noreferrer"><img class="thumbnail" src="http://res.cloudinary.com/dok4pz3i3/image/upload/v1613154144/rift-to-square_gmazhe.png" alt=""/></a>
+                        <img class="thumbnail" src="http://res.cloudinary.com/dok4pz3i3/image/upload/v1613154144/rift-to-square_gmazhe.png" alt=""/>
                         <p class="projects-info-inprogress">LoL Ranked Report (in progress)</p>
                         {/* <p class="projects-info"><a class="projects-info" href="http://token-chat.herokuapp.com/" target="_blank" rel="noreferrer">LoL Ranked Report (in progress)</a></p> */}
                         <p class="projects-info"><a class="projects-info" href="https://github.com/tylerdance/lol-report" target="_blank" rel="noreferrer">front end repo</a></p>
