@@ -33,6 +33,12 @@ body {
   /* min-height: 100vh; */
   position: relative; 
   background: #fff9f6;
+  /* background-image: url('http://res.cloudinary.com/dok4pz3i3/image/upload/v1612910290/flatclouds_half_imgedit9_cmbzy9.jpg'); */
+  /* background-size: cover; */
+  background-position: center;
+  background-position-y: -275px;
+  background-repeat: no-repeat;
+  /* background-size: cover; */
   color: #000000;
   /* font-family: 'Hind Siliguri', sans-serif; */
   font-family: 'Nunito', sans-serif;
@@ -325,6 +331,22 @@ body {
   color: rgb(135, 135, 135);
   margin: 0px;
   padding: 0px;
+}
+.projects-info-name {
+  color: rgb(135, 135, 135);
+  margin: 0px;
+  padding: 0px;
+  border: 1px solid rgb(63, 181, 211);
+
+  border-radius: 10%;
+}
+
+.projects-info-inprogress {
+  color: rgb(135, 135, 135);
+  margin: 0px;
+  padding: 0px;
+  border: 1px solid rgb(63, 181, 211);
+  border-radius: 10%;
 }
 
 
