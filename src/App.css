@@ -44,7 +44,7 @@ body {
   /* font-family: 'Hind Siliguri', sans-serif; */
   font-family: 'Nunito', sans-serif;
   padding-top: 30px;
-  padding-bottom: 5px;
+  padding-bottom: 20px;
   /* background-color: chartreuse; */
   
 }
@@ -380,8 +380,8 @@ p {
 
 
 .thumbnail {
-  width: 265px;
-  height: 265px;
+  width: 245px;
+  height: 245px;
   border-radius: 5%;
   padding: 5px;
   margin-top: 10px;
