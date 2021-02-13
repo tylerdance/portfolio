@@ -15,8 +15,8 @@ function RecentWork() {
                     <p class="tech-stack"><strong>React.js, MongoDB, Express, Node</strong></p>
                     <div class="links-div">
                         <div><a class="projects-info" href="http://token-chat.herokuapp.com/" target="_blank" rel="noreferrer">Live site</a></div>
-                        <div><a class="projects-info" href="https://github.com/tylerdance/SEI-project4-frontend" target="_blank" rel="noreferrer">Frontend Github repo</a></div>
-                        <div><a class="projects-info" href="https://github.com/tylerdance/SEI-project4-backend" target="_blank" rel="noreferrer">Backend Github repo</a></div>
+                        <div><a class="projects-info" href="https://github.com/tylerdance/SEI-project4-frontend" target="_blank" rel="noreferrer">front end repo</a></div>
+                        <div><a class="projects-info" href="https://github.com/tylerdance/SEI-project4-backend" target="_blank" rel="noreferrer">back end repo</a></div>
 
                     </div>
                 </div>
@@ -35,8 +35,8 @@ function RecentWork() {
                     <p class="tech-stack"><strong>React.js, MongoDB, Express, Node</strong></p>
                     <div class="links-div">
                         <div><a class="projects-info" href="http://tabsensei.herokuapp.com/" target="_blank" rel="noreferrer">Live site</a></div>
-                        <div><a class="projects-info" href="https://github.com/tylerdance/tab-sensei-frontend" target="_blank" rel="noreferrer">Frontend Github repo</a></div>
-                        <div><a class="projects-info" href="https://github.com/tylerdance/tab-sensei-backend" target="_blank" rel="noreferrer">Backend Github repo</a></div>
+                        <div><a class="projects-info" href="https://github.com/tylerdance/tab-sensei-frontend" target="_blank" rel="noreferrer">front end repo</a></div>
+                        <div><a class="projects-info" href="https://github.com/tylerdance/tab-sensei-backend" target="_blank" rel="noreferrer">back end repo</a></div>
 
                     </div>
                 </div>

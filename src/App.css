@@ -8,6 +8,7 @@ body {
 
 .App {
   text-align: center;
+  font-family: 'Nunito', sans-serif;
 }
 .nav {
 
@@ -188,13 +189,13 @@ body {
 }
 
 #token-ss {
-  height: 260px;
-  width: 420px;
+  height: 250px;
+  width: 415px;
   max-width: 100%;
 }
 #tabsensei-ss {
-  height: 260px;
-  width: 420px;
+  height: 250px;
+  width: 415px;
   max-width: 100%;
 }
 
@@ -221,7 +222,7 @@ body {
   /* font-size: 32px; */
   text-decoration: underline;
   padding-top: 30px;
-  margin-bottom: 5px;
+  margin-bottom: 20px;
   text-align: left;
   margin-left: 20px;
   font-family: 'Nunito', sans-serif;
@@ -231,11 +232,17 @@ body {
   /* font-size: 32px; */
   text-decoration: underline;
   margin-top: 25px;
-  margin-bottom: 5px;
+  margin-bottom: 20px;
   text-align: left;
   margin-left: 20px;
   font-family: 'Nunito', sans-serif;
   /* font-family: 'Hind Siliguri', sans-serif; */
+}
+
+#resume-flex {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
 }
 
 .resume-div {
@@ -263,7 +270,7 @@ body {
 
 #resume-sub-div {
   /* border: 2px solid black; */
-  /* width: 100%; */
+  max-width: 500px;
   /* height: 100vh; */
   /* background-color: red; */
   text-align: left;
@@ -278,6 +285,12 @@ body {
   font-size: 17px;
 }
 
+#resume-education {
+  /* margin-left: 0px; */
+  max-width: 500px;
+  text-align: left;
+}
+
 .resume-download {
   text-align: center;
   text-decoration: none;
@@ -288,6 +301,7 @@ body {
   /* border: 2px solid black; */
   color: black;
   /* text-decoration: none; */
+  padding-top: 20px;
   padding-bottom: 10px;
   font-family: 'Nunito', sans-serif;
 }
@@ -332,26 +346,32 @@ body {
   font-family: 'Nunito', sans-serif;
 }
 
+.projects-info-name {
+  /* color: rgb(135, 135, 135); */
+  color: rgb(63, 181, 211);
+  margin: 0px;
+  padding: 0px;
+ 
+}
 .projects-info {
   color: rgb(135, 135, 135);
   margin: 0px;
   padding: 0px;
 }
 
+p {
+  margin: 0px;
+}
+
+.projects-info-name:hover {
+  color: rgb(63, 181, 211);
+}
 .projects-info:hover {
   color: rgb(63, 181, 211);
 }
-.projects-info-name {
-  color: rgb(135, 135, 135);
-  margin: 0px;
-  padding: 0px;
-  border: 1 px solid rgb(63, 181, 211);
-
-  border-radius: 10%;
-}
 
 .projects-info-inprogress {
-  color: rgb(135, 135, 135);
+  /* color: rgb(135, 135, 135); */
   margin: 0px;
   padding: 0px;
   /* border: 1px solid rgb(63, 181, 211); */
@@ -364,6 +384,7 @@ body {
   height: 265px;
   border-radius: 5%;
   padding: 5px;
+  margin-top: 10px;
 }
 
 /* .thumbnail:hover {
@@ -372,6 +393,7 @@ body {
 
 .project-name {
   font-family: 'Hind Siliguri', sans-serif;
+
 }
 
 #about-header {
