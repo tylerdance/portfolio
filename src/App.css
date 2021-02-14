@@ -189,13 +189,14 @@ body {
 }
 
 #token-ss {
-  height: 250px;
-  width: 415px;
+  height: 240px;
+  width: 398px;
   max-width: 100%;
+  margin-bottom: 25px;
 }
 #tabsensei-ss {
-  height: 250px;
-  width: 415px;
+  height: 240px;
+  width: 398px;
   max-width: 100%;
 }
 
@@ -357,12 +358,12 @@ body {
   color: rgb(135, 135, 135);
   margin: 0px;
   padding: 0px;
-}
-.projects-info-bot {
-  color: rgb(135, 135, 135);
-  margin: 0px;
   padding-bottom: 15px;
 }
+/* .projects-info-bot {
+  color: rgb(135, 135, 135);
+  margin: 0px;
+} */
 
 p {
   margin: 0px;
