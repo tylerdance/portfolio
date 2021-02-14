@@ -8,18 +8,18 @@ function Resume() {
                         <div class="resume-div">
                             {/* <h3>Experience</h3> */}
                             {/* <hr /> */}
-                            <p class="resume"><strong>Software Engineering Immersive Program</strong>  at General Assembly (October 2020 - January 2021)</p>
+                            <p class="resume"><strong>Software Engineering Immersive</strong>  at General Assembly (October 2020 - January 2021)</p>
                                 <li class="resume">13 weeks of fullstack software development training in some of the most common technologies currently being used in the industry</li>
                                 <li class="resume">Javascript, React, Python, Django, MongoDB, Express, Node.js, SQL, PostreSQL, HTML, CSS, Heroku, Github</li>
-                                <li class="resume">Experience working on small development teams and as a project manager</li>
+                                {/* <li class="resume">Experience working on small development teams and as a project manager</li> */}
                             {/* <br /> */}
                             <hr />
                             <p class="resume"><strong>Audio/Visual Technician</strong> at PSAV (June 2019 - March 2020)</p>
                                 <li class="resume">Corporate conference technical support</li>
                                 <li class="resume">Live audio system operation for conferences of up to 200 people</li>
-                                <li class="resume">Long throw projection tower assembly</li>
+                                {/* <li class="resume">Long throw projection tower assembly</li> */}
                             <hr />
-                            <p class="resume"><strong>Audio Engineer</strong> freelance (2012 - present)</p>
+                            <p class="resume"><strong>Audio Engineer</strong> (2012 - present)</p>
                                 <li class="resume">9 years of multi-track mixing, mastering, and music production</li>
                                 <li class="resume">Ableton Live, Pro Tools, Izotope Ozone</li>
                             <hr />
@@ -39,7 +39,7 @@ function Resume() {
                 <div id="resume-education">
                     <h2 id="education-header">Education</h2>
                     <div class="resume-div2">
-                        <p class="resume"><strong>Software Engineering Immersive Program</strong> at General Assembly 2021</p>
+                        <p class="resume"><strong>Software Engineering Immersive</strong> at General Assembly 2021</p>
                         {/* <br /> */}
                         <p class="resume"><strong>B.S. Audio Production</strong> in TV/Radio at Ithaca College 2016</p>
 
