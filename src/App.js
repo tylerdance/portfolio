@@ -20,10 +20,10 @@ function App() {
         {/* <Nav /> */}
         <Home />
         <RecentWork />
+        <About />
+        <Projects />
         <Resume />
         <ShowResume />
-        <Projects />
-        <About />
         {/* <Route path="/home" component={Home} /> */}
         {/* <Route path="/about" component={About} /> */}
         {/* <Route exact path="/projects" component={Projects} /> */}
