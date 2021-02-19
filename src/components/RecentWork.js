@@ -12,7 +12,7 @@ function RecentWork() {
                     <p class="description">Websocket based messaging app experiment where users can find connections based on their location. Swipe right to send a chat invitation, swipe left to shuffle the database.</p>
                     {/* <p class="description">Open an <em>incognito</em> window with a second account to demo the chat functionality.</p> */}
                     {/* <br /> */}
-                    <p class="tech-stack"><strong>React.js, MongoDB, Express, Node</strong></p>
+                    <p class="tech-stack"><strong>React.js, MongoDB, Express, Node.js</strong></p>
                     <div class="links-div">
                         <div><a class="projects-info" href="http://token-chat.herokuapp.com/" target="_blank" rel="noreferrer">Live site</a></div>
                         <div><a class="projects-info" href="https://github.com/tylerdance/SEI-project4-frontend" target="_blank" rel="noreferrer">front end repo</a></div>
@@ -32,7 +32,7 @@ function RecentWork() {
                     </div> */}
                     <p class="description">Guitar tab search engine and social platform. Users can search for tabs, comment, save tabs to their profile, and play along to beats from the beat bank at any tempo.</p>
                     {/* <br /> */}
-                    <p class="tech-stack"><strong>React.js, MongoDB, Express, Node</strong></p>
+                    <p class="tech-stack"><strong>React.js, MongoDB, Express, Node.js</strong></p>
                     <div class="links-div">
                         <div><a class="projects-info" href="http://tabsensei.herokuapp.com/" target="_blank" rel="noreferrer">Live site</a></div>
                         <div><a class="projects-info" href="https://github.com/tylerdance/tab-sensei-frontend" target="_blank" rel="noreferrer">front end repo</a></div>
