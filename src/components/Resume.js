@@ -9,14 +9,14 @@ function Resume() {
                             {/* <h3>Experience</h3> */}
                             {/* <hr /> */}
                             <p class="resume"><strong>Software Engineering Immersive</strong>  at General Assembly (October 2020 - January 2021)</p>
-                                <li class="resume">13 weeks of fullstack software development training in some of the most common technologies currently being used in the industry</li>
+                                <li class="resume">13 weeks of full stack software development training in some of the most common technologies currently being used in the industry</li>
                                 <li class="resume">Javascript, React, Python, Django, MongoDB, Express, Node.js, SQL, PostreSQL, EJS, HTML, CSS, Heroku, Github</li>
                                 {/* <li class="resume">Experience working on small development teams and as a project manager</li> */}
                             {/* <br /> */}
                             <hr />
                             <p class="resume"><strong>Audio/Visual Technician</strong> at PSAV (June 2019 - March 2020)</p>
                                 <li class="resume">Corporate conference technical support</li>
-                                <li class="resume">Live audio system operation for conferences of up to 200 people</li>
+                                <li class="resume">Live audio system operation for 200+ person conferences</li>
                                 {/* <li class="resume">Long throw projection tower assembly</li> */}
                             <hr />
                             <p class="resume"><strong>Audio Engineer</strong> (2012 - present)</p>
