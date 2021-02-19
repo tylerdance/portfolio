@@ -28,14 +28,14 @@ function Projects() {
                         {/* <p class="project-name">Trail Hunter</p> */}
                         <a href="https://off-road-trail-finder.herokuapp.com/" target="_blank" rel="noreferrer"><img class="thumbnail" src="http://res.cloudinary.com/dok4pz3i3/image/upload/v1610835107/squamishcrop_oswwrf.jpg" alt="" /></a>
                         <p ><a class="projects-info-name" href="http://off-road-trail-finder.herokuapp.com/" target="_blank" rel="noreferrer">Trail Hunter</a></p>
-                        <p class="projects-info-bot"><a class="projects-info" href="https://github.com/tylerdance/trail-finder" target="_blank" rel="noreferrer">repo</a></p>
+                        <p class="projects-info"><a class="projects-info" href="https://github.com/tylerdance/trail-finder" target="_blank" rel="noreferrer">repo</a></p>
                     </div>
 
                     <div id="asteroids-pic">
                         {/* <p class="project-name">Asteroids</p> */}
                         <a href="https://tylerdance.github.io/Asteroids-game/" target="_blank" rel="noreferrer"><img class="thumbnail" src="http://res.cloudinary.com/dok4pz3i3/image/upload/v1610834682/asteroids3crop_gzgtgh.jpg" alt="" /></a>
                         <p ><a class="projects-info-name" href="http://tylerdance.github.io/Asteroids-game/" target="_blank" rel="noreferrer">Asteroids</a></p>
-                        <p class="projects-info-bot"><a class="projects-info" href="https://github.com/tylerdance/Asteroids-game" target="_blank" rel="noreferrer">repo</a></p>
+                        <p class="projects-info"><a class="projects-info" href="https://github.com/tylerdance/Asteroids-game" target="_blank" rel="noreferrer">repo</a></p>
                     </div>
 
                 </div>

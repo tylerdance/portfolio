@@ -62,10 +62,11 @@ body {
   /* text-align: center; */
 }
 
-#my-name-about {
+#my-name-home {
   /* margin-top: 15px;
   margin-bottom: 5px; */
-  font-family: 'Hind Siliguri', sans-serif;
+
+  letter-spacing: -2px;
 }
 
 #prof-pic {
