@@ -8,7 +8,7 @@ function RecentWork() {
             </div>
             <div class="lol-div">
                 <div id="token-sub-div">
-                    <h3 ><a class="recents-header" href="http://token-chat.herokuapp.com/" target="_blank" rel="noreferrer">LoL Ranked Report</a></h3>
+                    <h3 ><a class="recents-header" href="http://lolrankedreport.herokuapp.com/" target="_blank" rel="noreferrer">LoL Ranked Report</a></h3>
                     <p class="description">League of Legends competitive play analysis tool hosting current rankings for the top three tiers.</p>
                     {/* <p class="description">Open an <em>incognito</em> window with a second account to demo the chat functionality.</p> */}
                     {/* <br /> */}
