@@ -1,10 +1,6 @@
-body {
+/* body {
 
-  /* background-color: rgba(211, 200, 42, 0.166); */
-  /* background: linear-gradient(90deg,  0%, rgb(14, 14, 140) 35%, rgba(0,212,255,1) 100%);
-  background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgb(14, 14, 140) 35%, rgb(5, 0, 96) 100%); */
-  /* margin-bottom: 10px; */
-}
+} */
 
 .App {
   text-align: center;
@@ -19,7 +15,6 @@ body {
 
 .nav-items {
   margin-left: 5px;
-  font-family: 'Hind Siliguri', sans-serif;
 }
 
 #nav-stuff {
@@ -41,37 +36,15 @@ body {
   background-repeat: no-repeat;
   /* background-size: cover; */
   color: #000000;
-  /* font-family: 'Hind Siliguri', sans-serif; */
-  font-family: 'Nunito', sans-serif;
   padding-top: 30px;
-  padding-bottom: 20px;
-  /* background-color: chartreuse; */
-  
-}
-
-
-
-#home-content {
-  /* opacity: 100%; */
-  /* margin-left: 60px;
-  margin-right: auto;
-  position: absolute;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%); */
-  /* text-align: center; */
+  padding-bottom: 20px;  
 }
 
 #my-name-home {
-  /* margin-top: 15px;
-  margin-bottom: 5px; */
-
   letter-spacing: -2px;
 }
 
 #prof-pic {
-  /* margin-top: 10px;
-  margin-bottom: 20px; */
   border-radius: 100%;
   width: 120px;
   margin-bottom: 10px;
@@ -79,29 +52,22 @@ body {
 
 #linkedin {
   text-decoration: none;
-  /* color: rgb(110, 154, 230); */
-  /* font-family: 'Hind Siliguri', sans-serif; */
-
 }
 
 #linkedin:hover {
   text-decoration: underline;
   cursor: pointer;
-  /* color: rgb(240, 172, 135); */
 }
 
 #bio {
   margin: 5px;
   font-size: 17px;
-  font-family: 'Hind Siliguri', sans-serif;
-  /* color: white; */
+  font-weight: 600;
 }
 
 #my-links {
   margin: 5px;
-
 }
-
 
 #github:hover {
   cursor: pointer;
@@ -124,16 +90,10 @@ body {
 #recent-work-header {
   padding-top: 20px;
   font-family: 'Nunito', sans-serif;
-  /* font-family: 'Hind Siliguri', sans-serif; */
 }
 
 #contact {
   margin-bottom: 7px;
-}
-
-.about {
-  font-family: 'Hind Siliguri', sans-serif;
-  margin: 10px;
 }
 
 .description {
@@ -142,7 +102,6 @@ body {
   margin-right: 10px;
   margin-bottom: 0px;
   font-size: 17px;
-  /* font-family: 'Hind Siliguri', sans-serif; */
 }
 
 .tech-stack {
@@ -150,7 +109,6 @@ body {
   margin-top: 4px;
   margin-bottom: 4px;
   font-size: 17px;
-  /* font-family: 'Hind Siliguri', sans-serif; */
 }
 
 .links-div {
@@ -164,21 +122,29 @@ body {
   color: rgb(63, 181, 211);
 }
 
-.token-div {
-  /* border: 1px solid rgb(0, 0, 0); */
-  /* border-radius: 10px; */
-
-  margin-top: 30px;
+.lol-div {
+  margin-top: 15px;
+  margin-bottom: 0px;
   margin-left: 15px;
   margin-right: 15px;
-  padding-bottom: 10px;
+  padding-bottom: 15px;
   font-size: 17px;
 
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
-  /* font-family: 'Hind Siliguri', sans-serif; */
-  font-family: 'Nunito', sans-serif;
+  border-bottom: 2px solid rgb(113, 113, 113);
+}
+.token-div {
+  padding-top: 20px;
+  margin-left: 15px;
+  margin-right: 15px;
+  padding-bottom: 15px;
+  font-size: 17px;
+
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
   border-bottom: 2px solid rgb(113, 113, 113);
 }
 
@@ -189,28 +155,23 @@ body {
   width: 500px;
 }
 
-#token-ss {
-  height: 240px;
-  width: 398px;
+.ss {
+  height: 205px;
+  width: 340px;
   max-width: 100%;
-  margin-bottom: 25px;
+  /* margin-bottom: 25px; */
 }
 #tabsensei-ss {
-  height: 240px;
-  width: 398px;
+  height: 205px;
+  width: 340px;
   max-width: 100%;
 }
 
 .tab-sensei-div {
-  /* border: 1px solid rgb(0, 0, 0); */
-  /* border-radius: 10px; */
-
-  margin-top: 30px;
+  padding-top: 15px;
   margin-left: 15px;
   margin-right: 15px;
   font-size: 17px;
-  font-family: 'Nunito', sans-serif;
-  /* font-family: 'Hind Siliguri', sans-serif; */
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
@@ -222,23 +183,21 @@ body {
 
 #resume-header {
   /* font-size: 32px; */
-  text-decoration: underline;
+  /* text-decoration: underline; */
+  border-bottom: 2px solid black;
   padding-top: 20px;
   margin-bottom: 7px;
   text-align: left;
   margin-left: 20px;
-  font-family: 'Nunito', sans-serif;
-  /* font-family: 'Hind Siliguri', sans-serif; */
 }
 #education-header {
   /* font-size: 32px; */
-  text-decoration: underline;
+  /* text-decoration: underline; */
+  border-bottom: 2px solid black;
   margin-top: 20px;
   margin-bottom: 7px;
   text-align: left;
   margin-left: 20px;
-  font-family: 'Nunito', sans-serif;
-  /* font-family: 'Hind Siliguri', sans-serif; */
 }
 
 #resume-flex {
@@ -254,7 +213,6 @@ body {
   text-align: left;
   margin-left: 20px;
   margin-right: 10px;
-  /* font-family: 'Hind Siliguri', sans-serif; */
   /* background-color: rgb(70, 187, 117); */
 }
 .resume-div2 {
@@ -268,18 +226,12 @@ body {
   /* background-color: rgb(70, 187, 117); */
 }
 
-
-
 #resume-sub-div {
   /* border: 2px solid black; */
   max-width: 500px;
   /* height: 100vh; */
   /* background-color: red; */
   text-align: left;
-  /* margin-top: 20px; */
-  /* padding-bottom: 40px; */
-  font-family: 'Nunito', sans-serif;
-  /* font-family: 'Hind Siliguri', sans-serif; */
 }
 
 .resume {
@@ -304,8 +256,6 @@ body {
   color: black;
   /* text-decoration: none; */
   padding-top: 20px;
-  padding-bottom: 5px;
-  font-family: 'Nunito', sans-serif;
 }
 
 #projects-div {
@@ -325,15 +275,10 @@ body {
 }
 
 #projects-header {
-  /* margin-top: 70px; */
-  /* color: rgb(63, 181, 211); */
   margin-bottom: 0px;
-  font-family: 'Nunito', sans-serif;
-  /* font-family: 'Hind Siliguri', sans-serif;  */
 }
 
 .projects {
-
   padding-bottom: 0px;
 }
 
@@ -344,8 +289,6 @@ body {
   margin-top: 1%;
   margin-left: 5%;
   margin-right: 5%;
-  /* margin: 4%; */
-  font-family: 'Nunito', sans-serif;
 }
 
 .projects-info-name {
@@ -361,10 +304,6 @@ body {
   padding: 0px;
   padding-bottom: 15px;
 }
-/* .projects-info-bot {
-  color: rgb(135, 135, 135);
-  margin: 0px;
-} */
 
 p {
   margin: 0px;
@@ -385,49 +324,59 @@ p {
   border-radius: 10%;
 }
 
-
 .thumbnail {
   width: 245px;
   height: 245px;
   border-radius: 5%;
   padding: 5px;
-  /* margin-top: 10px; */
 }
 
-/* .thumbnail:hover {
-  opacity: 60%;
-} */
-
-.project-name {
-  font-family: 'Hind Siliguri', sans-serif;
-
-}
-
-#about-header {
+/* #about-header {
   padding-top: 40px;
   padding-bottom: 10px;
   font-family: 'Nunito', sans-serif;
-  /* font-family: 'Hind Siliguri', sans-serif; */
-}
+} */
 
 #about-parent-div {
   background: #fff9f6;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
 }
 
 .about {
   text-align: left;
   margin-left: 40px;
-  margin-right: 40px;
+  margin-right: 30px;
+  margin-bottom: 0px;
+  padding-top: 22px;
+  padding-bottom: 18px;
+  font-size: 17px;
+  width: 950px;
+
+  /* background-color: green; */
+}
+
+#skills-header {
+  border-bottom: 2px solid black;
+}
+.skills {
+  text-align: center;
+  /* margin-left: 70px; */
+  /* margin-right: 70px; */
+  padding-top: 70px;
+  /* position: absolute; */
   margin-bottom: 0px;
   padding-bottom: 30px;
   font-size: 17px;
-  font-family: 'Nunito', sans-serif;
-  /* font-family: 'Hind Siliguri', sans-serif; */
-  /* padding-bottom: 40px; */
+  width: 370px;
+  /* max-width: 200px; */
+
+  /* background-color: red; */
 }
 
 #back-to-top {
   padding: 5px;
   background: #fff9f6;
-  font-family: 'Nunito', sans-serif;
+  /* font-family: 'Nunito', sans-serif; */
 }
