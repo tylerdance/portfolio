@@ -14,7 +14,7 @@ function Resume() {
                                 {/* <li class="resume">Experience working on small development teams and as a project manager</li> */}
                             {/* <br /> */}
                             <hr />
-                            <p class="resume"><strong>Audio/Visual Technician</strong> at PSAV (June 2019 - March 2020)</p>
+                            <p class="resume"><strong>Audio/Visual Technician</strong> at Encore (June 2019 - March 2020)</p>
                                 <li class="resume">Corporate conference technical support</li>
                                 <li class="resume">Live audio system operation for 200+ person conferences</li>
                                 {/* <li class="resume">Long throw projection tower assembly</li> */}
@@ -55,7 +55,7 @@ function Resume() {
             <div class="resume-btn">
                 {/* <a id="resume-btn" href="https://docs.google.com/document/d/e/2PACX-1vRo9c981fgn-NRKae_eBdAVCxAVLLD0_cAIuidOyNFpuEl5ggWTnc0LPj5vCoPTZfyGhbaDmvb2VzHg/pub" target="_blank"><button class="btn btn-dark">Full Resume</button></a> */}
                 {/* <a id="resume-btn" href="C:/assets/tylerdance-resume.pdf" download><button class="btn btn-dark">Full Resume</button></a> */}
-                <a href="https://docdro.id/v4LcBRx" target="_blank" rel="noreferrer"><button class="btn btn-dark">Full Resume</button></a>
+                <a href="https://docdro.id/z4aFqeC" target="_blank" rel="noreferrer"><button class="btn btn-dark">Full Resume</button></a>
             </div>
         </div>
     )
