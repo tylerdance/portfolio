@@ -1,6 +1,6 @@
 body {
   /* background-color: rgba(0, 0, 0, 0.849); */
-  background-color: rgba(0, 0, 0, 0.885);
+  background-color: rgba(0, 0, 0, 0.919);
 }
 
 .App {
@@ -126,15 +126,17 @@ body {
 }
 
 .lol-div {
-  margin-top: 15px;
+  /* margin-top: 15px; */
   margin-bottom: 0px;
   margin-left: 15px;
   margin-right: 15px;
+  padding-top: 25px;
   padding-bottom: 25px;
   font-size: 17px;
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
+  border-top: 2px solid rgb(113, 113, 113);
   border-bottom: 2px solid rgb(113, 113, 113);
 }
 .token-div {
@@ -171,12 +173,14 @@ body {
 
 .tab-sensei-div {
   padding-top: 25px;
+  padding-bottom: 25px;
   margin-left: 15px;
   margin-right: 15px;
   font-size: 17px;
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
+  border-bottom: 2px solid rgb(113, 113, 113);
 }
 
 #resume-parent-div {
