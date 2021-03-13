@@ -3,14 +3,14 @@ function RecentWork() {
         <div id="highlights">
             <div id="recent-work-header">
               
-                <h2 >Recent Work</h2>
+                {/* <h2>Recent Work</h2> */}
 
             </div>
                 <div class="lol-div">
                     <div id="token-sub-div">
                         <h3 ><a class="recents-header" href="http://lolrankedreport.herokuapp.com/" target="_blank" rel="noreferrer">LoL Ranked Report</a></h3>
                         <p class="description">League of Legends competitive play analysis tool hosting current rankings for the top three tiers.</p>
-                        <p class="description">Individual player stat search currently in progress.</p>
+                        <p class="description">All regions and individual player search currently in progress.</p>
                     
                         <p class="tech-stack"><strong>React.js, Express, Node.js</strong></p>
                         <div class="links-div">
@@ -28,7 +28,7 @@ function RecentWork() {
                 <div class="token-div">
                     <div id="token-sub-div">
                         <h3 ><a class="recents-header" href="http://token-chat.herokuapp.com/" target="_blank" rel="noreferrer">Token</a></h3>
-                        <p class="description">Websocket based messaging app experiment where users can find connections based on their location. Swipe right to send a chat invitation, swipe left to shuffle the database.</p>
+                        <p class="description">Websocket based messaging app where users can find connections based on their location. Swipe right to send a chat invitation, swipe left to shuffle the database.</p>
                         {/* <p class="description">Open an <em>incognito</em> window with a second account to demo the chat functionality.</p> */}
                         {/* <br /> */}
                         <p class="tech-stack"><strong>React.js, MongoDB, Express, Node.js</strong></p>

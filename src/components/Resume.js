@@ -8,9 +8,9 @@ function Resume() {
                         <div class="resume-div">
                             {/* <h3>Experience</h3> */}
                             {/* <hr /> */}
-                            <p class="resume"><strong>Software Engineering Immersive</strong>  at General Assembly (October 2020 - January 2021)</p>
+                            <p class="resume"><strong>Software Engineering Immersive Student</strong>  at General Assembly (October 2020 - January 2021)</p>
                                 <li class="resume">13 weeks of full stack software development training in some of the most common technologies currently being used in the industry</li>
-                                <li class="resume">Javascript, React, Python, Django, MongoDB, Mongoose, Express, Node.js, SQL, PostreSQL, EJS, HTML, CSS, Heroku, Github, Git, Markdown</li>
+                                <li class="resume">Javascript, React, Python, Django, MongoDB, Mongoose, Express, Node.js, SQL, PostreSQL, EJS, HTML, CSS, Heroku, Github, Git, command line, markdown</li>
                                 {/* <li class="resume">Experience working on small development teams and as a project manager</li> */}
                             {/* <br /> */}
                             <hr />
@@ -37,11 +37,11 @@ function Resume() {
                 </div>
 
                 <div id="resume-education">
-                    <h2 id="education-header">Education</h2>
+                    <h2 id="education-header">Education & Certifications</h2>
                     <div class="resume-div2">
-                        <p class="resume"><strong>Software Engineering Immersive</strong> at General Assembly 2021</p>
+                        <p class="resume"><strong>Software Engineering Certificate</strong> – General Assembly 2021</p>
                         {/* <br /> */}
-                        <p class="resume"><strong>B.S. Audio Production</strong> in TV/Radio at Ithaca College 2016</p>
+                        <p class="resume"><strong>B.S. Audio Production</strong> in TV/Radio – Ithaca College 2016</p>
 
                     </div>
                 </div>
