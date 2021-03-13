@@ -1,6 +1,4 @@
 import './App.css';
-// import { BrowserRouter, Route } from 'react-router-dom'
-// import Nav from './components/Nav'
 import Projects from './components/Projects'
 import Resume from './components/Resume'
 import About from './components/About'
