@@ -75,6 +75,16 @@ body {
   color: white;
 }
 
+#links{
+  color: rgb(193, 193, 193);
+}
+#linkedin{
+  color: rgb(193, 193, 193);
+}
+#resume-link{
+  color: rgb(193, 193, 193);
+}
+
 #highlights {
   /* min-height: 100vh; */
   position: relative;
