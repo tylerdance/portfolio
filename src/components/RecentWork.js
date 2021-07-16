@@ -8,6 +8,23 @@ function RecentWork() {
             </div>
                 <div class="lol-div">
                     <div id="token-sub-div">
+                        <h3 ><a class="recents-header" href="http://sugiwon.com/" target="_blank" rel="noreferrer">Sugiwon</a></h3>
+                        <p class="description">New York based recording artist.</p>
+                        <p class="tech-stack"><strong>React.js, Express, Node.js</strong></p>
+                        <div class="links-div">
+                            <div><a class="projects-info" href="http://lolrankedreport.herokuapp.com/" target="_blank" rel="noreferrer">sugiwon.com</a></div>
+                            <div><a class="projects-info" href="https://github.com/tylerdance/lol-report" target="_blank" rel="noreferrer">front end repo</a></div>
+                            <div></div>
+
+                        </div>
+                    </div>
+                    <div>
+                        <img className="ss" src="https://res.cloudinary.com/df3zbbtc1/image/upload/v1614000777/Screen_Shot_2021-02-22_at_8.31.18_AM_pqslyf.png" alt="" />
+                    </div>
+                </div>
+
+                <div class="lol-div">
+                    <div id="token-sub-div">
                         <h3 ><a class="recents-header" href="http://lolrankedreport.herokuapp.com/" target="_blank" rel="noreferrer">LoL Ranked Report</a></h3>
                         <p class="description">League of Legends competitive play analysis tool hosting current rankings for the top three tiers.</p>
                         <p class="description">All regions and individual player search currently in progress.</p>
