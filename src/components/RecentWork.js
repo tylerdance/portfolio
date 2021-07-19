@@ -6,14 +6,14 @@ function RecentWork() {
                 {/* <h2>Recent Work</h2> */}
 
             </div>
-                <div class="lol-div">
+                <div class="sug-div">
                     <div id="token-sub-div">
-                        <h3 ><a class="recents-header" href="http://sugiwon.com/" target="_blank" rel="noreferrer">Sugiwon</a></h3>
+                        <h3 ><a class="recents-header" href="https://sugiwon.com/" target="_blank" rel="noreferrer">Sugiwon</a></h3>
                         <p class="description">New York based recording artist.</p>
                         <p class="tech-stack"><strong>React.js, Express, Node.js</strong></p>
                         <div class="links-div">
-                            <div><a class="projects-info" href="http://lolrankedreport.herokuapp.com/" target="_blank" rel="noreferrer">sugiwon.com</a></div>
-                            <div><a class="projects-info" href="https://github.com/tylerdance/lol-report" target="_blank" rel="noreferrer">front end repo</a></div>
+                            <div><a class="projects-info" href="https://sugiwon.com" target="_blank" rel="noreferrer">sugiwon.com</a></div>
+                            <div><a class="projects-info" href="https://github.com/tylerdance/sugiwon" target="_blank" rel="noreferrer">front end repo</a></div>
                             <div></div>
 
                         </div>

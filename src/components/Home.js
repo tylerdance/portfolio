@@ -8,7 +8,9 @@ function Home() {
                     <p id="bio">Full stack software developer</p>
 
                     <div >
-                        <p id="my-links"><a id="links" href="https://github.com/tylerdance" target="_blank" rel="noreferrer">Github</a> | <a id="linkedin" href="https://www.linkedin.com/in/tylerdance/" target="_blank" rel="noreferrer">LinkedIn</a> | <a id="resume-link" href="https://docdro.id/BQDxFhj" target="_blank" rel="noreferrer">Resume</a></p>
+                        <p id="my-links"><a id="links" href="https://github.com/tylerdance" target="_blank" rel="noreferrer">Github</a> | <a id="linkedin" href="https://www.linkedin.com/in/tylerdance/" target="_blank" rel="noreferrer">LinkedIn</a>
+                         {/* | <a id="resume-link" href="https://docdro.id/BQDxFhj" target="_blank" rel="noreferrer">Resume</a> */}
+                         </p>
 
                     </div>
                     {/* <p id="contact">tylerdance12@gmail.com</p> */}
