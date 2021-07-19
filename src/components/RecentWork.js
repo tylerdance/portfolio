@@ -19,7 +19,7 @@ function RecentWork() {
                         </div>
                     </div>
                     <div>
-                        <img className="ss" src="https://res.cloudinary.com/df3zbbtc1/image/upload/v1614000777/Screen_Shot_2021-02-22_at_8.31.18_AM_pqslyf.png" alt="" />
+                        <img className="ss" src="https://res.cloudinary.com/df3zbbtc1/image/upload/v1626721982/Screen_Shot_2021-07-19_at_3.11.59_PM_jzq7qz.png" alt="" />
                     </div>
                 </div>
 
